@@ -16,8 +16,8 @@
 ---
 
 ## 🛠️ Requirements
-**This notebook uses ucml library to get the dataset. The pip command to download that library is given in the notebook itself.**
-Install dependencies using:
+**This notebook uses ucml library to get the dataset. The pip command to download that library is given in the notebook itself.**\n
+Install dependencies other using:
 
 ```bash
 pip install -r requirements.txt
